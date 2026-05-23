@@ -1,5 +1,16 @@
-## Hi there 👋
+## Hello 🫂
 
+I'm Natchanon, digital engineering student at SIIT, Thammasat University.
+
+I'm currently learning...
+- a software development
+- Web-application development
+- game development
+
+## Tech & Tools
+- Python
+- HTML, JavaScript, CSS
+- Figma
 <!--
 **natchatn/natchatn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
